@@ -1,18 +1,28 @@
 .box {
   height: 60px;
-  width: 100px;
-  border-radius: 5px;
+  width: 100%;
   text-align: center;
   color: #FFFFFF;
   font-family: Verdana, Arial, Sans-Serif;
-  opacity: 0.5;
-  margin-bottom: 10px;
+  opacity: .95;
 }
 
-#box-1 {
-  background-color: #1e1433;
+.a {
+  background-color: #000000;
 }
 
-#box-2 {
-  background-color: #1c5e34;
+.b {
+  background-color: #0d1526;
+}
+
+.c {
+  background-color: #1a2b4c;
+}
+
+.d {
+  background-color: #264073;
+}
+
+.e {
+  background-color: #31549b;
 }
